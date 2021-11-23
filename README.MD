@@ -9,7 +9,7 @@ Olá esse Projeto foi criado dia 22/11/21 por Luis Eduardo Spindola, esse é um 
 
 -----------------------------------------------------------------------
 
-/*English-part*/
+English-part
 
 Hi this project was created in 11/22/21 by Luis Eduardo Spindola,this is a projetc open source and will have future changes(that will be posted here).
 
