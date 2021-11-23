@@ -1,0 +1,41 @@
+/*Valores gerais para as tags*/
+
+*{
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    margin: 0%;
+    padding: 0%;
+}
+
+.li a{
+    text-decoration: none;
+}
+
+
+/*Começo Barra menu*/
+
+.bm{
+    display: flex;
+    background-color: rgba(18, 18, 88, 0.623);
+    height: 9vh;
+    justify-content: space-around;
+    align-items: center;
+}
+
+
+.bm-ul{
+    font-size: 25px;
+    display: flex;
+}
+
+.bm-ul li{
+    margin-left: 32px;
+    list-style: none;
+}
+
+.li a{
+    color: white;
+}
+
+
+
+
